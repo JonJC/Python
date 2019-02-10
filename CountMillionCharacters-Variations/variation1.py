@@ -15,6 +15,7 @@ def count_chars(filename):
     return count
 
 def main():
+    print("an example change")
     is_exist=True
     #Try to open file if exist else raise exception and try again
     while(is_exist):
